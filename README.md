@@ -22,6 +22,11 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Into the Abyss — Crater Lake, a travelogue!](https://medium.com/@sachinmalhotra/into-the-abyss-crater-lake-a-travelogue-26a0864deb2b?source=rss-6ca530696214------2)
+- [Presenting the Code-r-Chef Kitchen](https://medium.com/@sachinmalhotra/presenting-the-code-r-chef-kitchen-a1e3b739929?source=rss-6ca530696214------2)
+- [Unmasking Bitmasked Dynamic Programming](https://medium.com/free-code-camp/unmasking-bitmasked-dynamic-programming-25669312b77b?source=rss-6ca530696214------2)
+- [The Perfect Programming Interview Problem](https://medium.com/free-code-camp/the-perfect-programming-interview-problem-8431cdeab2a7?source=rss-6ca530696214------2)
+- [Fun with array rotations](https://medium.com/hackernoon/fun-with-array-rotations-add4a335d79a?source=rss-6ca530696214------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Github Stats
