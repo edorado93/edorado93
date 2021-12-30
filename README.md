@@ -25,11 +25,4 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edorado93&layout=compact" />
 
-<!-- markdownlint-disable MD033 -->
-
-<details>
-    <summary>&#9889 <b>Detailed Stats</b></summary><br/>
-    ![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
-</details>
-
-<!-- markdownlint-enable MD033 -->
+![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
