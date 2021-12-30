@@ -1,0 +1,35 @@
+# Hi, I'm Sachin Malhotra (:snowman::computer::jack_o_lantern::beer:)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edorado93)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://edorado93.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/edorado93)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/thisboyhasnoshame/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://instagram.com/thisboyhasnoshame/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+
+Let me set the records straight. Roger Federer is the GOAT and I will not hear otherwise! 
+
+Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+
+* 🖥️ Currently working as a software engineer at Microsoft.
+* 🖨️ I write solution articles and explore cards for <a href="https://www.leetcode.com">Leetcode</a> on the side.
+* 🎾 Member of the Seattle Tennis League. Let's play sometime if you're in the area!
+* ⛰️Love exploring off-beat hikes and peaks in the Pacific Northwest. My absolute favorite:  🥁🥁 <a href="https://www.wta.org/go-hiking/hikes/mailbox-peak">Mailbox Peak</a>
+* 😄 Pronouns: He/him
+* 🤯 A strange fact about me: I love to fly! Eat, Netflix, Sleep, and repeat? Who doesn't love that!
+
+## 👨‍💻 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=edorado93&show_icons=true&theme=dracula" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edorado93&layout=compact" />
+
+<!-- markdownlint-disable MD033 -->
+
+<details>
+    <summary>&#9889 <b>Detailed Stats</b></summary><br/>
+    ![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
+</details>
+
+<!-- markdownlint-enable MD033 -->
