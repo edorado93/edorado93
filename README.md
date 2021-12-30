@@ -19,6 +19,11 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 😄 Pronouns: He/him
 * 🤯 A strange fact about me: I love to fly! Eat, Netflix, Sleep, and repeat? Who doesn't love that!
 
+## 🚀 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 👨‍💻 Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=edorado93&show_icons=true&theme=dracula" />
