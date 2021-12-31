@@ -1,4 +1,5 @@
 # Hi, I'm Sachin Malhotra (:snowman::computer::jack_o_lantern::beer:)
+![](https://komarev.com/ghpvc/?username=edorado93)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/edorado93)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://edorado93.github.io/)
@@ -19,6 +20,8 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 😄 Pronouns: He/him
 * 🤯 A strange fact about me: I love to fly! Eat, Netflix, Sleep, and repeat? Who doesn't love that!
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -36,3 +39,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edorado93&layout=compact" />
 
 ![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&text=👻👻👻&animation=twinkling"/>
+</p>
