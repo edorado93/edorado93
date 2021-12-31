@@ -34,6 +34,10 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 - [Fun with array rotations](https://medium.com/hackernoon/fun-with-array-rotations-add4a335d79a?source=rss-6ca530696214------2)
 <!-- BLOG-POST-LIST:END -->
 
+## 🎧 What's Vibin?
+
+![Metrics](https://github.com/edorado93/edorado93/blob/main/spotify.svg)
+
 ## 👨‍💻 Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=edorado93&show_icons=true&theme=dracula" />
@@ -45,3 +49,6 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
+
+
+
