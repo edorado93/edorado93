@@ -20,8 +20,10 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 😄 Pronouns: He/him
 * 🤯 A strange fact about me: I love to fly! Eat, Netflix, Sleep, and repeat? Who doesn't love that!
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
+  
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
