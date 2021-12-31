@@ -13,6 +13,10 @@ Let me set the records straight. Roger Federer is the GOAT and I will not hear o
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/edorado93/edorado93/blob/main/devcard.svg" width="250" align="right" alt="Sachin Malhotra's Dev Card"/></a>
+<!-- markdownlint-enable MD033 -->
+
 * 🖥️ Currently working as a software engineer at Microsoft.
 * 🖨️ I write solution articles and explore cards for <a href="https://www.leetcode.com">Leetcode</a> on the side.
 * 🎾 Member of the Seattle Tennis League. Let's play sometime if you're in the area!
