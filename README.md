@@ -36,7 +36,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 ## 🎧 What's Vibin?
 
-![Metrics](https://github.com/edorado93/edorado93/blob/main/spotify.svg)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/9e26dolk3590fq0god5akapie)
 
 ## 👨‍💻 Github Stats
 
