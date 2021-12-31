@@ -43,5 +43,5 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 ![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&text=👻👻👻&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
