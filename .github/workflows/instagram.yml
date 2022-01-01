@@ -25,6 +25,7 @@ jobs:
           python ./scripts/fetch_instagram_photos.py
       - name: Commit and push if changed
         run: |
+          git pull origin main
           git add .
           git config --global user.email "sachinmalhotra1993@gmail.com"
           git config --global user.name "edorado93"
