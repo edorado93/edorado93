@@ -42,6 +42,18 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 [![Spotify](https://github.com/edorado93/edorado93/blob/main/spotify.svg)](https://open.spotify.com/user/9e26dolk3590fq0god5akapie)
 
+## Hey there, Seattle!
+
+I currently live in Seattle, Washington and I encourage everyone to definitely visit some of the amazing places in and around the area if you get a chance! For some inspiration, we fetch the most recent posts from the [visitseattle](https://www.instagram.com/visitseattle/) instagram account.
+
+Oh and these get updated everyday! God bless Github Actions :)
+
+<div style="display: flex; justify-content:space-between">
+  <img src="instagram_posts/post_0/post.jpg" width="30%" height="30%" style="border-radius: 10%;"/>
+  <img src="instagram_posts/post_1/post.jpg" width="30%" height="30%" style="border-radius: 10%;"/>
+  <img src="instagram_posts/post_2/post.jpg" width="30%" height="30%" style="border-radius: 10%;"/>
+</div>
+
 ## 👨‍💻 Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=edorado93&show_icons=true&theme=dracula" />
