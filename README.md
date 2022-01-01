@@ -48,10 +48,10 @@ I currently live in Seattle, Washington and I encourage everyone to definitely v
 
 Oh and these get updated everyday! God bless Github Actions :)
 
-<div style="display: flex; justify-content:space-between">
-  <img src="instagram_posts/post_0/post.jpg" width="30%" height="30%" style="border-radius: 10%;"/>
-  <img src="instagram_posts/post_1/post.jpg" width="30%" height="30%" style="border-radius: 10%;"/>
-  <img src="instagram_posts/post_2/post.jpg" width="30%" height="30%" style="border-radius: 10%;"/>
+<div>
+  <img src="instagram_posts/post_0/post.jpg" width="300" height="300"/>
+  <img src="instagram_posts/post_1/post.jpg" width="300" height="300"/>
+  <img src="instagram_posts/post_2/post.jpg" width="300" height="300"/>
 </div>
 
 ## 👨‍💻 Github Stats
