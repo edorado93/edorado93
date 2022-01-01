@@ -1,4 +1,5 @@
 import instaloader
+import os
 
 def fetch_recent_K_photos(K, handle, loader_instance):
     profile = instaloader.Profile.from_username(L.context, handle)
@@ -13,10 +14,10 @@ def fetch_recent_K_photos(K, handle, loader_instance):
 
     return top_K_posts
 
-if __def__ == "__main__":
+if __name__ == "__main__":
 
     L = instaloader.Instaloader(dirname_pattern="instagram_posts\\{target}", filename_pattern="post")
-    handle_to_consider = os.getenv("INSTAGRAM_PUBLIC_HANDLE")
+    handle_to_consider = os.getenv("INSTAGRAM_PUBLIC_HANDLE", default = "visitseattle")
     recent_posts = fetch_recent_K_photos(3, handle_to_consider, L)
 
     index = 0
