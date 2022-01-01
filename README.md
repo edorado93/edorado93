@@ -49,9 +49,9 @@ I currently live in Seattle, Washington and I encourage everyone to definitely v
 Oh and these get updated everyday! God bless Github Actions :)
 
 <div>
-  <img src="instagram_posts/post_0/post.jpg" width="300" height="300"/>
-  <img src="instagram_posts/post_1/post.jpg" width="300" height="300"/>
-  <img src="instagram_posts/post_2/post.jpg" width="300" height="300"/>
+  <img src="instagram_posts/post_0/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_1/post.jpg" width="250" height="250"/>
+  <img src="instagram_posts/post_2/post.jpg" width="250" height="250"/>
 </div>
 
 ## 👨‍💻 Github Stats
