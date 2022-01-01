@@ -1,0 +1,32 @@
+name: Instagram Top-3 posts
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo with the top-3 posts from an instagram handle
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: requirements
+        run: |
+          pip install instaloader
+      - name: generate
+        env:
+          INSTAGRAM_PUBLIC_HANDLE: ${{ secrets.INSTAGRAM_PUBLIC_HANDLE }}
+        run: |
+          python ./scripts/fetch_instagram_photos.py
+      - name: Commit and push if changed
+        run: |
+          git add .
+          git config --global user.email "sachinmalhotra1993@gmail.com"
+          git config --global user.name "edorado93"
+          git commit -m "Updated intagram photos"
+          git push origin main
