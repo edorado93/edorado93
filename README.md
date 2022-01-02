@@ -22,7 +22,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 🎾 Member of the Seattle Tennis League. Let's play sometime if you're in the area!
 * ⛰️Love exploring off-beat hikes and peaks in the Pacific Northwest. My absolute favorite:  🥁🥁 <a href="https://www.wta.org/go-hiking/hikes/mailbox-peak">Mailbox Peak</a>
 * 😄 Pronouns: He/him
-* 🤯 A strange fact about me: I love to fly! Eat, Netflix, Sleep, and repeat? Who doesn't love that!
+* 🤯 A strange fact about me: I love to write complete sentences and over-explain myself, especially in unnecessary situations!
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
