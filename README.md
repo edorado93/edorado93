@@ -31,11 +31,11 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 ## 🚀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Dynamic Github profile with Github Actions](https://sachinmalhotra.medium.com/do-you-have-a-great-github-readme-b8a59b066d02?source=rss-6ca530696214------2)
 - [Into the Abyss — Crater Lake, a travelogue!](https://sachinmalhotra.medium.com/into-the-abyss-crater-lake-a-travelogue-26a0864deb2b?source=rss-6ca530696214------2)
 - [Presenting the Code-r-Chef Kitchen](https://sachinmalhotra.medium.com/presenting-the-code-r-chef-kitchen-a1e3b739929?source=rss-6ca530696214------2)
 - [Unmasking Bitmasked Dynamic Programming](https://medium.com/free-code-camp/unmasking-bitmasked-dynamic-programming-25669312b77b?source=rss-6ca530696214------2)
 - [The Perfect Programming Interview Problem](https://medium.com/free-code-camp/the-perfect-programming-interview-problem-8431cdeab2a7?source=rss-6ca530696214------2)
-- [Fun with array rotations](https://medium.com/hackernoon/fun-with-array-rotations-add4a335d79a?source=rss-6ca530696214------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 What's Vibin?
