@@ -16,7 +16,7 @@ def fetch_recent_K_photos(K, handle, loader_instance):
 
 def clean_old_photos(path, num_photos):
     for i in range(num_photos):
-        files = glob.glob(path + "/post_" + str(i))
+        files = glob.glob(path + "/post_" + str(i) + "/*")
         for f in files:
             os.remove(f)
 
